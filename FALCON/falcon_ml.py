@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1KCuRnW7kZ09FR0rWwhDP8RkMilK8jwP0
 """
 
-df = pd.read_csv("weather_data.csv")
-df
 
 import pandas as pd
 
